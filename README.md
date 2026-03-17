@@ -12,7 +12,7 @@ This repository contains my QA testing work for:
 - Screenshots
 
 ## Video Walkthrough:
-(YouTube link here)
+https://youtu.be/G-3_WApRP40?si=-5iOuft-nlzzdCXp
 
 Tools used:
 - Manual testing
